@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tchallagulla/sit725-prac2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "*",
+    "sentiment": "*"
   }
 }
